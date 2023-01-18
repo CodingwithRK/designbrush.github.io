@@ -4024,7 +4024,7 @@ input[type=number] {
 .sideinstagram {
     background: #FBE5EB;
     /* background: #27ae60; */
-    border: 2px solid #E4405F;
+    /* border: 2px solid #E4405F; */
     /* border-color: #27ae60; */
     /* color: #27ae60; */
 }
@@ -4038,7 +4038,7 @@ input[type=number] {
 }
 .sidelinkedin {
     background: #CAEAFB;
-    border: 2px solid #0A66C2;
+    /* border: 2px solid #0A66C2; */
     /* border-color: #e67e22; */
     color: #0A66C2;
 }
@@ -4050,7 +4050,7 @@ input[type=number] {
 }
 .sidefacebook {
     background: #E7EEFF ;
-    border: 2px solid #3b5998;
+    /* border: 2px solid #3b5998; */
     /* border-color: #3b5998; */
     color: #3b5998;
 }
@@ -4059,7 +4059,7 @@ input[type=number] {
 }
 .sideyoutube {
     background: #FFDDDD;
-    border: 2px solid #CD201F;
+    /* border: 2px solid #CD201F; */
     /* border-color: #D2527F; */
     color: #CD201F;
 }
